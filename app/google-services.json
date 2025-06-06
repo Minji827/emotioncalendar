@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120816751837",
+    "project_id": "emotioncalendar-ba23e",
+    "storage_bucket": "emotioncalendar-ba23e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120816751837:android:9969aad2de28f186e37734",
+        "android_client_info": {
+          "package_name": "com.example.emotioncalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhNOJNa4KhhcwoxMc1FGKyYZ5tChBoOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
